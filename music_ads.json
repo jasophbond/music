@@ -1,0 +1,13 @@
+{
+  "live_ad": "admob",
+  "admob": {
+    "app_id": "ca-app-pub-5545605109042626~5348217680",
+    "interstitial": "ca-app-pub-5545605109042626/7591237648",
+    "native_advance": "ca-app-pub-5545605109042626/9806337446",
+    "app_open_ad": ""
+  },
+  "facebook": {
+    "interstitial": "975484402984045_975485756317243",
+    "native_advance": "975484402984045_975487372983748"
+  }
+}
