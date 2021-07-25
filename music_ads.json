@@ -1,9 +1,9 @@
 {
   "live_ad": "admob",
   "admob": {
-    "app_id": "ca-app-pub-5545605109042626~5348217680",
-    "interstitial": "ca-app-pub-5545605109042626/7591237648",
-    "native_advance": "ca-app-pub-5545605109042626/9806337446",
+    "app_id": "",
+    "interstitial": "/419163168/freemusicplayer.musicplayer.listenmusic.mp3.interstitial",
+    "native_advance": "/419163168/freemusicplayer.musicplayer.listenmusic.mp3.native",
     "app_open_ad": ""
   },
   "facebook": {
