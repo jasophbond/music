@@ -3,7 +3,7 @@
   "admob": {
     "app_id": "",
     "interstitial": "/419163168/freemusicplayer.musicplayer.listenmusic.mp3.interstitial",
-    "native_advance": "/419163168/freemusicplayer.musicplayer.listenmusic.mp3.native",
+    "native_advance": "",
     "app_open_ad": ""
   },
   "facebook": {
