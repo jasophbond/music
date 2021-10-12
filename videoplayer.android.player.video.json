@@ -1,13 +1,13 @@
 {
   "live_ad": "admob",
   "admob": {
-    "app_id": "",
-    "interstitial": "/419163168/videoplayer.android.player.video.interstitial",
-    "native_advance": "/419163168/videoplayer.android.player.video.native",
+    "app_id": "ca-app-pub-5545605109042626~6605459032",
+    "interstitial": "ca-app-pub-5545605109042626/1161560668",
+    "native_advance": "ca-app-pub-5545605109042626/2283070644",
     "app_open_ad": ""
   },
   "facebook": {
-    "interstitial": "",
-    "native_advance": ""
+    "interstitial": "701364150557712_701364913890969",
+    "native_advance": "701364150557712_701365607224233"
   }
 }
