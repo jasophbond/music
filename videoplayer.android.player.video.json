@@ -1,10 +1,10 @@
 {
   "live_ad": "admob",
   "admob": {
-    "app_id": "ca-app-pub-3940256099942544~3347511713",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "native_advance": "ca-app-pub-3940256099942544/2247696110",
-    "app_open_ad": "ca-app-pub-3940256099942544/3419835294"
+    "app_id": "ca-app-pub-5869915890684141~9118202961",
+    "interstitial": "ca-app-pub-5869915890684141/6429310509",
+    "native_advance": "ca-app-pub-5869915890684141/4924657147",
+    "app_open_ad": "ca-app-pub-5869915890684141/6046167126"
   },
   "facebook": {
     "interstitial": "701364150557712_701364913890969",
