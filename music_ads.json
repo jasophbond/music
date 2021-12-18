@@ -1,10 +1,10 @@
 {
   "live_ad": "admob",
   "admob": {
-    "app_id": "ca-app-pub-5545605109042626~5348217680",
-    "interstitial": "ca-app-pub-5545605109042626/7591237648",
-    "native_advance": "ca-app-pub-5545605109042626/5229970983",
-    "app_open_ad": "ca-app-pub-5545605109042626/3916889314"
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "interstitial": "/21928950349,22579242491/woxxin_freemusicplayer.musicplayer.listenmusic.mp3_interstitial",
+    "native_advance": "/21928950349,22579242491/woxxin_freemusicplayer.musicplayer.listenmusic.mp3_native",
+    "app_open_ad": "/21928950349,22579242491/woxxin_freemusicplayer.musicplayer.listenmusic.mp3_appopen"
   },
   "facebook": {
     "interstitial": "975484402984045_975485756317243",
