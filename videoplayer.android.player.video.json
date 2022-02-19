@@ -1,10 +1,10 @@
 {
   "live_ad": "admob",
   "admob": {
-    "app_id": "ca-app-pub-3940256099942544~3347511713",
-    "interstitial": "/21952429235,22677121930/TTS_WOXXIN_2_VIDEOPLAYERFORANDROID_INTERSTITIAL",
-    "native_advance": "/21952429235,22677121930/TTS_WOXXIN_2_VIDEOPLAYERFORANDROID_NATIVE_AD",
-    "app_open_ad": "/21952429235,22677121930/TTS_WOXXIN_2_VIDEOPLAYERFORANDROID_OPEN_AD"
+    "app_id": "",
+    "interstitial": "",
+    "native_advance": "",
+    "app_open_ad": ""
   },
   "facebook": {
     "interstitial": "701364150557712_701364913890969",
